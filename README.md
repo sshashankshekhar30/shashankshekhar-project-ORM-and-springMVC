@@ -1,5 +1,7 @@
 # shashankshekhar-project-ORM-and-springMVC
 
+Project Video Link : https://drive.google.com/drive/folders/17MMHYX4mISHYlM4fJ3SvXrgSe44tj9d0?usp=sharing
+
 You are required to create a Customer Relationship Management web application, where you
 will be developing CRUD(Create Read Update Delete) functionality.
 Note the following points while developing the application
